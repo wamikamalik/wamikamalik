@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with the communications subteam of the [NUS Rover Team](https://github.com/orgs/NUS-Rover-Team) under NUSSEDS as a co-lead on a [wireless communications system](https://nus-rover-team.github.io/wirelesscommunications/).
 - 🌱 I’m currently learning about React Native, Firebase, Real Time Operating Systems and Robot Operating System!
 - 👯 I’m looking to collaborate on application development projects or robotics projects.
+- 💬 Ask me anything [here](https://github.com/wamikamalik/wamikamalik/discussions).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read! My favourite authors include Dan Brown and James Dashner.
 
@@ -42,12 +43,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamikamalik&theme=bear" />
 </a>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevenseasofbri&repo=CG2271-Mini-Project&theme=blueberry" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sevenseasofbri&repo=tp&theme=blueberry" />
-</a> 
--->
