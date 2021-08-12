@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently interning at The Coca-Cola Company in Singapore as an Artificial Intelligence (A.I.) intern.
 - 🔭 I’m currently working with the communications subteam of the [NUS Rover Team](https://github.com/orgs/NUS-Rover-Team) under NUSSEDS as a co-lead on a [wireless communications system](https://nus-rover-team.github.io/wirelesscommunications/).
-- 🌱 I’m currently learning about React Native, Firebase, Real Time Operating Systems and Robot Operating System!
+- 🌱 I’m currently learning about Flask, React Native, Firebase, Real Time Operating Systems, Robot Operating System, Machine Learning and Microsoft Power apps!
 - 👯 I’m looking to collaborate on application development projects or robotics projects.
 - 💬 Ask me anything [here](https://github.com/wamikamalik/wamikamalik/discussions).
 - 😄 Pronouns: she/her
@@ -37,13 +38,11 @@ Here are some ideas to get you started:
 <code><img src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" alt="assembly language" height=30></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/arm-logo-vector-1.svg" alt="arm" height=30></code>
 <code><img src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" height=30></code>
+<code><img src="https://qph.fs.quoracdn.net/main-qimg-ad2e0a65df473c4af55ad8c9699bbfd8.webp" alt="Flask" height=30></code>
+<code><img src="https://newhorizons.com.sg/wp-content/uploads/2019/04/python.png" alt="Python" height=30></code>
+<code><img src="https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png" alt="Microsoft Power apps" height=30></code>
 
 
 ### These are my Github Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wamikamalik&show_icons=true&include_all_commits=true&count_private=true&theme=bear" alt="Wamika's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamikamalik&theme=bear" />
-</a>
+
