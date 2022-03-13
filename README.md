@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently interning at The Coca-Cola Company in Singapore as an Artificial Intelligence (A.I.) intern.
+- 🔭 I have interned at The Coca-Cola Company in Singapore as an Artificial Intelligence (A.I.) intern.
 - 🔭 I’m currently working with the communications subteam of the [NUS Rover Team](https://github.com/orgs/NUS-Rover-Team) under NUSSEDS as a co-lead on a [wireless communications system](https://nus-rover-team.github.io/wirelesscommunications/).
 - 🌱 I’m currently learning about Flask, React Native, Firebase, Real Time Operating Systems, Robot Operating System, Machine Learning and Microsoft Power apps!
 - 👯 I’m looking to collaborate on application development projects or robotics projects.
