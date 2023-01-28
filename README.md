@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I have interned at The Coca-Cola Company in Singapore as an Artificial Intelligence (A.I.) intern.
-- 🔭 I’m currently working with the communications subteam of the [NUS Rover Team](https://github.com/orgs/NUS-Rover-Team) under NUSSEDS as a co-lead on a [wireless communications system](https://nus-rover-team.github.io/wirelesscommunications/).
-- 🌱 I’m currently learning about Flask, React Native, Firebase, Real Time Operating Systems, Robot Operating System, Machine Learning and Microsoft Power apps!
-- 👯 I’m looking to collaborate on application development projects or robotics projects.
+- 🔭 I’m currently working as a Research Assistant and a Teaching Assistant at the National Univeristy of Singapore
+- 🌱 I’m currently learning about Flask, React Native, Firebase, Real Time Operating Systems, Python, Wireless Communications, Machine Learning and Microsoft Power apps!
+- 👯 I’m looking to collaborate on application development projects, IoT projects, robotics projects or Machine Learning projects.
 - 💬 Ask me anything [here](https://github.com/wamikamalik/wamikamalik/discussions).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read! My favourite authors include Dan Brown and James Dashner.
