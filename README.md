@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wamika, a scholarship student at the ✨ National University of Singapore ✨. I am currently an undergraduate, studying a double major of Computer Engineering with Mathematics.
+I'm Wamika, a masters student at the ✨ National University of Singapore ✨. I am currently a Sofware Engineer at PSA and a part-time masters student studying AI at NUS.
 <!--
 **wamikamalik/wamikamalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I have interned at The Coca-Cola Company in Singapore as an Artificial Intelligence (A.I.) intern.
-- 🔭 I’m currently working as a Research Assistant and a Teaching Assistant at the National Univeristy of Singapore
-- 🌱 I’m currently learning about Flask, React Native, Firebase, Real Time Operating Systems, Python, Wireless Communications, Machine Learning and Microsoft Power apps!
+- 🔭 I’m currently working as Software Engineer at PSA
+- 🌱 I’m currently learning about Spring, Java, CI/CD, Oracle, Angular, Flask, React Native, Firebase, Real Time Operating Systems, Python, Wireless Communications, Machine Learning and Microsoft Power apps!
 - 👯 I’m looking to collaborate on application development projects, IoT projects, robotics projects or Machine Learning projects.
 - 💬 Ask me anything [here](https://github.com/wamikamalik/wamikamalik/discussions).
 - 😄 Pronouns: she/her
